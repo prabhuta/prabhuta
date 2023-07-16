@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**prabhuta/prabhuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Welcome to my GitHub profile! I'm glad you stopped by. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on honing my coding skills and expanding my knowledge in various domains.
+- 🌱 I’m currently learning and exploring different frameworks and APIs.
+- 👯 I’m looking to collaborate on interesting and innovative projects that make a positive impact.
+- 🤔 I’m looking for help with challenging coding problems and deepening my understanding of algorithms and data structures.
+- 😄 Pronouns: She/Her/Hers.
+  
+I'm excited to share my projects and contributions with you. 
+Happy coding! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
