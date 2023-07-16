@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Welcome to my GitHub profile! I'm glad you stopped by. Here's a bit about me:
+Welcome to my GitHub profile! I'm glad you stopped by. Here's a bit about me:
 
 - 🔭 I’m currently working on honing my coding skills and expanding my knowledge in various domains.
 - 🌱 I’m currently learning and exploring different frameworks and APIs.
