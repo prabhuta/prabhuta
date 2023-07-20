@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Prabhuta Chaudhary</h1>
+<h1 align="center">Hi there 👋, I'm Prabhuta Chaudhary</h1>
 <h3 align="center">A Computer Science Student</h3>
 
 - 🔭 I’m currently working on **Spring Boot Framework and REST API**
