@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Prabhuta Chaudhary</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Spring Boot Framework and REST API**
+- 🔭 I’m currently working on **Malicious URL Detection Using Transformer Models**
 
 - 🌱 I’m currently learning **AI/ML and DSA**
 
